@@ -1,0 +1,5 @@
+-
+I think this should support ARM64 through the line of cheap Orange Pi SBCs. Not interested in arm but it is the only option for truly cheap hardware right now.
+I think this should support the AMD64 platform for compatiblity in the high performance space.
+RISC-V will surpass arm and x86 in performance, efficiency and cost and it is an open standard. This os should support riscv64 principally by targeting Shakti's processors and motherboards.
+
